@@ -1,0 +1,2 @@
+# Change repertory rights # 777 ---> all permissions granted
+sudo chmod -R 777 /folder1/folder2/
